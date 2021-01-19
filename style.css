@@ -1,9 +1,13 @@
 @charset "UTF-8";
 
 .box8 {
-    padding: 10px;
-    margin: 10px;
-    color: #232323;
-    background: #fff8e8;
-    border-left: solid 10px #ffc06e;
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #ff7d6e;
+    background: #ffebe9;
+    border-top: solid 10px #ff7d6e;
+}
+.box9 p {
+    margin: 0; 
+    padding: 0;
 }
