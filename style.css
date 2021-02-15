@@ -27,3 +27,7 @@
 #menu-bg {
 }
 }
+
+p.b-keep{
+  word-break: keep-all;
+}
