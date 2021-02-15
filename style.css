@@ -1,16 +1,14 @@
 @charset "UTF-8";
 
-.box8 {
+/*.box8 {
     padding: 0.25em 0.5em;
     margin: 1em 0;
     color: #ff7d6e;
     background: #ffebe9;
     border-top: solid 10px #ff7d6e;
 }
-.box8 p {
-    margin: 0; 
-    padding: 0;
-}
+*/
+
 
 @media screen and (min-width: 767px) {
 #menu-bg {
@@ -32,6 +30,9 @@
 body{
   width:100%;
   text-align:center;
+  color: #ff7d6e;
+  background: #ffebe9;
+  border-top: solid 10px #ff7d6e;
 }
 #wrap{ 
   width: 960px;
