@@ -9,6 +9,18 @@
 }
 */
 
+body{
+  width:100%;
+  text-align:center;
+  color: #ff7d6e;
+  background: #ffebe9;
+  border-top: solid 10px #ff7d6e;
+}
+#wrap{ 
+  width: 960px;
+  margin: 0 auto;
+  text-align:left;
+}
 
 @media screen and (min-width: 767px) {
 #menu-bg {
@@ -21,21 +33,7 @@
 }
 }
 
-@media screen and (max-width: 479px) { /*ウィンドウ幅が最大479pxまでの場合に適用*/
+@media screen and (max-width: 479px) {
 #menu-bg {
 }
-}
-
-
-body{
-  width:100%;
-  text-align:center;
-  color: #ff7d6e;
-  background: #ffebe9;
-  border-top: solid 10px #ff7d6e;
-}
-#wrap{ 
-  width: 960px;
-  margin: 0 auto;
-  text-align:left;
 }
