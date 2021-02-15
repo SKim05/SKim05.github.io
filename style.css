@@ -28,6 +28,13 @@
 }
 }
 
-p.b-keep{
-  word-break: keep-all;
+
+body{
+  width:100%;
+  text-align:center;
+}
+#wrap{ 
+  width: 960px;
+  margin: 0 auto;
+  text-align:left;
 }
