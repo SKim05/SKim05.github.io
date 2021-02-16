@@ -22,8 +22,9 @@
 	display: block;
 }
 .body text {
-	text-align: left;
 	display: inline-block;
+	text-align: left;
+  	word-wrap: break-word;
 }
 
 .body ul {
@@ -33,10 +34,4 @@
 }
 .body ul li {
 	text-align: left;
-}
-
-.body wrap{
-	text-align: left;
-	display: inline-block;
-  	word-wrap: break-word;
 }
