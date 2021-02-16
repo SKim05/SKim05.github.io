@@ -1,20 +1,8 @@
 @charset "UTF-8";
 
-/*.box8 {
-    padding: 0.25em 0.5em;
-    margin: 1em 0;
-    color: #ff7d6e;
-    background: #ffebe9;
-    border-top: solid 10px #ff7d6e;
-}
-*/
-
 body{
   width:100%;
   text-align:center;
-  /*color: #ff7d6e;*/
-  /*background: #ffebe9;*/
-  /*border-top: solid 10px #ff7d6e;*/
 }
 #wrap{ 
   width: 960px;
