@@ -27,11 +27,8 @@
   	word-wrap: break-word;
 }
 
-.body ul {
-	padding-left: 0;
-	list-style: none;
-	display: inline-block;
-}
-.body ul li {
-	text-align: left;
+.body tag{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
