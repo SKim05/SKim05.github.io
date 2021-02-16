@@ -26,3 +26,12 @@
 	text-align: left;
 	display: inline-block;
 }
+
+.body ul {
+	padding-left: 0;
+	list-style: none;
+	display: inline-block;
+}
+.body ul li {
+	text-align: left;
+}
