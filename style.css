@@ -34,3 +34,7 @@
 .body ul li {
 	text-align: left;
 }
+
+.body wrap{
+  word-wrap: break-word;
+}
